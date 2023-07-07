@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+remote_theme: alshedivat/al-folio
 title: Wei's Projects
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
